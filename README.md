@@ -98,38 +98,30 @@ it is the basic parent login
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
-
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+https://drive.google.com/file/d/1KxMPNNGjj5vJpA6KyHL3_gaT3y2j2aAC/view?usp=sharing
+small basic modal of how our website works
 
 ---
 
 ## AI Tools Used (Optional - For Transparency Bonus)
 
-If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
+**Tool Used:** [e.g., GitHub Copilot,  ChatGPT, grok]
+
+**Purpose:** editing code
+- Example: "create code examples"
+- Example: "Debugging assistance "
 - Example: "Code review and optimization suggestions"
 
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
 
 **Percentage of AI-generated code:** [Approximately X%]
 
 **Human Contributions:**
 - Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
-- UI/UX design decisions
+- create the idea
+- researched about idea
+
 
 *Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
 
@@ -137,11 +129,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
----
+- anupama r nair: technical stuff 
+- devangana prem: research ,using ai tools
 
 ## License
 
