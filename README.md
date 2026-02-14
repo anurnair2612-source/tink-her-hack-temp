@@ -2,40 +2,34 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
-
+# GateEasy
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Amigo
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-
+- Member 1:Devangana prem -LBSITW
+- Member 2:Anupama R Nair-LBSITW
 ### Hosted Project Link
-[mention your project hosted link here]
+file:///C:/Users/HP/Downloads/GateEasy/gate.html
 
 ### Project Description
-[2-3 lines about what your project does]
+GateEasy digitizes the college gate pass process with multi-level verification to improve security and efficiency.GateEasy is a digital gate pass management system that streamlines student exit requests through parent and teacher verification to ensure secure and efficient campus access control
 
 ### The Problem statement
-[What problem are you solving?]
+The existing manual gate pass system in colleges is inefficient and create administrative delays ,thereby necessitating a secure digital solution for managing student entry and exist.
 
 ### The Solution
-[How are you solving it?]
-
----
-
+Creating an website [GateEasy] to access gate pass easily.
 ## Technical Details
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
+- Languages used: Javascript,css,html
+- Frameworks used: JavaScript + HTML + CSS single-file prototype 
+- Libraries used: it doesn't use any external JavaScript framework or library.
+- Tools used:VS Code,GIT
 **For Hardware:**
 - Main components: [List main components]
 - Specifications: [Technical specifications]
@@ -46,10 +40,13 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1:Role-based Access (3 user types)
+- Feature 2: Simple Registration / Login Flow
+Choose role → enter name 
+New users are automatically registered when they first continue
+- Feature 3:All users and requests are saved in browser's localStorage
+- Feature 4: Teacher Features
+View only parent-approved requests from students in their assigned class
 
 ---
 
@@ -58,15 +55,10 @@ List the key features of your project:
 ### For Software:
 
 #### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+Just open the fileNo command – double-click the .html fileOpen with local server (Python)python -m http.server 8000Open with local server (Node + serve)npx serve   or   serve
 
 #### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
-
+Double-click the saved file
 ### For Hardware:
 
 #### Components Required
@@ -82,15 +74,18 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
+<img width="1084" height="531" alt="GateEasy front page" src="https://github.com/user-attachments/assets/28027173-682d-4c48-977d-05e62d449575" />
+it is the front page of our website
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="994" height="537" alt="GateEasy student login" src="https://github.com/user-attachments/assets/8447f0fc-2a02-4fbe-9bd5-427fc1806fc9" />
+it is the basic student login page
+
+
+<img width="998" height="342" alt="GateEasy teacher page" src="https://github.com/user-attachments/assets/d003afbc-2688-48af-8c81-45d06d0d506b" />
+it is the basic teachers login
+
 
 #### Diagrams
 
